@@ -1,6 +1,6 @@
 body {
-  background-color: #eeeeee;
-  color: #030303;
+  background-color: #9877b4;
+  color: #401b60;
   margin: 0;
   padding: 0;
 }
@@ -10,8 +10,8 @@ body {
 }
 
 .content {
-  background-color: #030303;
-  color: #eeeeee;
+  background-color: #19c5c9;
+  color: #000000;
   display: flex;
   padding: 15px;
 }
